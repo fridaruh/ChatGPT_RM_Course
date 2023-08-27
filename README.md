@@ -2,11 +2,11 @@
 
 ## Large Language Models
 
-[Chatgpt] ([https://chat.openai.com/])
-[Claude] ([https://claude.ai/])
-[Bard] ([https://bard.google.com/])
-[Midjourney] ([https://www.midjourney.com/])
-[Dall-e] ([https://openai.com/dall-e-2])
+[Chatgpt] (https://chat.openai.com/)
+[Claude] (https://claude.ai/)
+[Bard] (https://bard.google.com/)
+[Midjourney] (https://www.midjourney.com/)
+[Dall-e] (https://openai.com/dall-e-2)
 
 ## Temario
 
