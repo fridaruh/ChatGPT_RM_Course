@@ -3,9 +3,13 @@
 ## Large Language Models
 
 [Chatgpt](https://chat.openai.com/)
+
 [Claude](https://claude.ai/)
+
 [Bard](https://bard.google.com/)
+
 [Midjourney](https://www.midjourney.com/)
+
 [Dall-e](https://openai.com/dall-e-2)
 
 ## Temario
@@ -56,11 +60,11 @@
 ## Recursos adicionales
 [Tutorial para encriptamiento de datos](https://medium.com/@FridaRuh/encriptar-y-desencriptar-datos-en-pyhon-con-cryptography-5b186c669801)
 
-
 [Descarga el pdf de la presentación](https://drive.google.com/file/d/1In270kiJWcZ1eU0EkLlJrIzA-ioY2Ge2/view?usp=drive_link)
+
 [Descarga superhuman para gestionar mejor tu mail](https://superhuman.com/refer/3l1ysddd)
 
-[Utiliza TextNow para usar un número de otro país][https://www.textnow.com/)
+[Utiliza TextNow para usar un número de otro país](https://www.textnow.com/)
 
 [Descarga Brave como alternativa privacy safe para tu navegador](https://brave.com/es/)
 
